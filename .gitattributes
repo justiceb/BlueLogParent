@@ -1,0 +1,15 @@
+*.lvproj -merge
+*.lvlib -merge
+*.lvclass -merge
+*.xctl -merge
+*.xnode -merge
+*.lvsc -merge
+*.ctl -merge
+*.lvlibp -merge
+*.llb -merge
+*.vi -merge
+*.vit -merge
+*.vim -merge
+*.ctt -merge
+*.vip -merge
+*.vipb -merge
